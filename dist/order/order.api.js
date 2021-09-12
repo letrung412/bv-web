@@ -63,4 +63,3 @@ function NewOrderAPI(userAuthBLL, orderBLL, jobBLL, orgBLL) {
     return app;
 }
 exports.NewOrderAPI = NewOrderAPI;
-//# sourceMappingURL=order.api.js.map

@@ -224,4 +224,3 @@ function NewJobAPI(userAuthBLL, jobBLL, serviceBLL) {
     return app;
 }
 exports.NewJobAPI = NewJobAPI;
-//# sourceMappingURL=job.api.js.map

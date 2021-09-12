@@ -130,4 +130,3 @@ function NewServiceAPI(userAuthBLL, serviceBLL) {
     return app;
 }
 exports.NewServiceAPI = NewServiceAPI;
-//# sourceMappingURL=service.api.js.map

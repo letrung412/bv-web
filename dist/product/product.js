@@ -16,4 +16,3 @@ var ProductNS;
         NewProductId: () => rand_1.default.uppercase(12), // collision 2^30
     };
 })(ProductNS = exports.ProductNS || (exports.ProductNS = {}));
-//# sourceMappingURL=product.js.map

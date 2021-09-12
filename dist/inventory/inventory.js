@@ -31,4 +31,3 @@ var InventoryNS;
         NewWarehouseTransactionId: () => rand_1.default.uppercase(16), // collision 2^48
     };
 })(InventoryNS = exports.InventoryNS || (exports.InventoryNS = {}));
-//# sourceMappingURL=inventory.js.map

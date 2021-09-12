@@ -190,4 +190,3 @@ class SampleBLLBase {
     }
 }
 exports.SampleBLLBase = SampleBLLBase;
-//# sourceMappingURL=sample.bll.base.js.map

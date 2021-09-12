@@ -246,4 +246,3 @@ class JobBLLBase {
     }
 }
 exports.JobBLLBase = JobBLLBase;
-//# sourceMappingURL=job.bll.base.js.map

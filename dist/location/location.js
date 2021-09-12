@@ -13,4 +13,3 @@ var LocationNS;
         NewLocationTypeId: () => rand_1.default.uppercase(8), // collision 2^20
     };
 })(LocationNS = exports.LocationNS || (exports.LocationNS = {}));
-//# sourceMappingURL=location.js.map

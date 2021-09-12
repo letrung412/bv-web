@@ -984,7 +984,7 @@
       "incremental": true,
       "experimentalDecorators": true,
       "moduleResolution": 2,
-      "sourceMap": true,
+      "sourceMap": false,
       "configFilePath": "../tsconfig.json"
     },
     "referencedMap": {

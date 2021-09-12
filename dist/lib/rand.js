@@ -19,4 +19,3 @@ const number = (l = 8) => randomString(l, CHARSET.NUMBER);
 exports.default = {
     uppercase, alphabet, number,
 };
-//# sourceMappingURL=rand.js.map

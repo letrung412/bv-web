@@ -134,4 +134,3 @@ class AccountingBLLBase {
     }
 }
 exports.AccountingBLLBase = AccountingBLLBase;
-//# sourceMappingURL=accounting.bll.base.js.map

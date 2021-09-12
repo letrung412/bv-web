@@ -50,4 +50,3 @@ function NewAPIReport(reportBLL) {
     return app;
 }
 exports.NewAPIReport = NewAPIReport;
-//# sourceMappingURL=report.api.js.map

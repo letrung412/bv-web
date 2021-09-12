@@ -27,4 +27,3 @@ async function ReadConfig() {
     return config;
 }
 exports.ReadConfig = ReadConfig;
-//# sourceMappingURL=config.js.map

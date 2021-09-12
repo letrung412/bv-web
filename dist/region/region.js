@@ -17,4 +17,3 @@ var RegionNS;
         NewRegionId: () => rand_1.default.alphabet(12)
     };
 })(RegionNS = exports.RegionNS || (exports.RegionNS = {}));
-//# sourceMappingURL=region.js.map

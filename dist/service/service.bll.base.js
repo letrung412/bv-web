@@ -146,4 +146,3 @@ class ServiceBLLBase {
     }
 }
 exports.ServiceBLLBase = ServiceBLLBase;
-//# sourceMappingURL=service.bll.base.js.map

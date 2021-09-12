@@ -145,4 +145,3 @@ async function ComputeRevuene(docs, jobBLL) {
     return { revuene, data, transactions };
 }
 exports.ComputeRevuene = ComputeRevuene;
-//# sourceMappingURL=accounting.api.middleware.js.map

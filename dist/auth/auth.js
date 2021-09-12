@@ -8,4 +8,3 @@ var UserAuthNS;
         ErrWrongPassword: new Error("wrong password"),
     };
 })(UserAuthNS = exports.UserAuthNS || (exports.UserAuthNS = {}));
-//# sourceMappingURL=auth.js.map

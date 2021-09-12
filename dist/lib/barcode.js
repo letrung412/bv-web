@@ -16,4 +16,3 @@ const createdBarcode = async (text) => {
     return barcodeBase64;
 };
 exports.createdBarcode = createdBarcode;
-//# sourceMappingURL=barcode.js.map

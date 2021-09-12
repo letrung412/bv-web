@@ -22,4 +22,3 @@ var SampleNS;
         ErrMachineNotWorking: new Error("Machine not working sample")
     };
 })(SampleNS = exports.SampleNS || (exports.SampleNS = {}));
-//# sourceMappingURL=sample.js.map

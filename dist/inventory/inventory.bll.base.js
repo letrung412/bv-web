@@ -239,4 +239,3 @@ class InventoryBLLBase {
     }
 }
 exports.InventoryBLLBase = InventoryBLLBase;
-//# sourceMappingURL=inventory.bll.base.js.map

@@ -44,4 +44,3 @@ class RetailDALMongo {
     }
 }
 exports.RetailDALMongo = RetailDALMongo;
-//# sourceMappingURL=retail.dal.mongo.js.map

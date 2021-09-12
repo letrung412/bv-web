@@ -147,4 +147,3 @@ class RetailBLLBase {
     }
 }
 exports.RetailBLLBase = RetailBLLBase;
-//# sourceMappingURL=retail.bll.base.js.map

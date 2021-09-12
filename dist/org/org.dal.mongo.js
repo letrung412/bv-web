@@ -55,4 +55,3 @@ class OrgDALMongo {
     }
 }
 exports.OrgDALMongo = OrgDALMongo;
-//# sourceMappingURL=org.dal.mongo.js.map

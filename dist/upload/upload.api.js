@@ -69,4 +69,3 @@ function NewAPIUpload(uploadBLL) {
     return app;
 }
 exports.NewAPIUpload = NewAPIUpload;
-//# sourceMappingURL=upload.api.js.map
