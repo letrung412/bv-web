@@ -4,12 +4,12 @@
   },
   "builds": [
     {
-      "src": "backend/dist/index.js",
+      "src": "dist/index.js",
       "use": "@vercel/node",
       "config": { "includeFiles": ["**"] }
     },
     {
-      "src": "backend/build/index.html",
+      "src": "build/index.html",
       "use": "@vercel/static",
       "config": { "includeFiles": ["**"] }
     }
@@ -18,15 +18,15 @@
     {"handle": "filesystem"},
     {
       "src": "/.*",
-      "dest": "backend/dist/index.js"
+      "dest": "dist/index.js"
     },
     {
       "src": "/",
-      "dest": "backend/build/index.html"
+      "dest": "build/index.html"
     },
     {
       "src": "/(.+)",
-      "dest": "backend/build/$1"
+      "dest": "build/$1"
     }
   ]
 }
