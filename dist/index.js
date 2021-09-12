@@ -173,7 +173,7 @@ async function main() {
     app.use("/api/sample", sample_api_1.NewSampleAI(sampleBLL));
     app.use("/api/data", upload_api_1.NewAPIUpload(uploadBLL));
     /****************************************************** */
-    app.use("/", express_1.ExpressStaticFallback(config.app.dir));
+    app.use("*", express_1.ExpressStaticFallback(config.app.dir));
     app.use(http_errror_handler_1.HttpErrorHandler);
     console.log(`listen on ${config.server.port}`);
     app.listen(config.server.port, "0.0.0.0", () => {

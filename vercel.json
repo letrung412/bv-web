@@ -9,7 +9,7 @@
       "config": { "includeFiles": ["**"] }
     },
     {
-      "src": "build/index.html",
+      "src": "public/index.html",
       "use": "@vercel/static",
       "config": { "includeFiles": ["**"] }
     }
@@ -21,7 +21,7 @@
     },
     {
       "src": "/",
-      "dest": "build/index.html"
+      "dest": "public/index.html"
     },
     {
       "src": "/(.+)",
