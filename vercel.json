@@ -7,11 +7,6 @@
       "src": "dist/index.js",
       "use": "@vercel/node",
       "config": { "includeFiles": ["**"] }
-    },
-    {
-      "src": "build/index.html",
-      "use": "@vercel/static",
-      "config": { "includeFiles": ["**"] }
     }
   ],
   "routes": [
