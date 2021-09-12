@@ -22,7 +22,7 @@
     },
     {
       "src": "/",
-      "dest": "/backend/build/index.html"
+      "dest": "backend/build/index.html"
     },
     {
       "src": "/(.+)",
