@@ -452,7 +452,7 @@
         "affectsGlobalScope": false
       },
       "../src/config.ts": {
-        "version": "8c3b4b9ef02edfc6f705b62eb885d19f8f3ef29f3ecb63947d54390148c65dd2",
+        "version": "4594af35d48e78dac72b83650c14136610e4bfa87823fabb0b95d165c6d4a17d",
         "signature": "f8284a5f293dadf6b3bf34440d4678273ee6042b9c62ed8a25cf2cc54138a77c",
         "affectsGlobalScope": false
       },
@@ -502,7 +502,7 @@
         "affectsGlobalScope": false
       },
       "../src/lib/express.ts": {
-        "version": "4a5d5e1c71fea9c48aeafe1efa377ce484d47b786b93f65953f800c072895c64",
+        "version": "48a9d92485cec42a3e321afcd648c08f0ff84083fbc33ddd1e11e1102cfbcc2e",
         "signature": "3f254f6c4cf13bcd1d89ed803ba6615189bda8144139f2b2fc3a33c3ad4c48c0",
         "affectsGlobalScope": false
       },
@@ -932,7 +932,7 @@
         "affectsGlobalScope": false
       },
       "../src/index.ts": {
-        "version": "4671deea15e1420263d6f5b6f97da57e3c9e53838dca3acc3f63996d0495b520",
+        "version": "fbb21017cc62d7b7ce6ff0d7db081734086245da5712e8b0815497a3dee924da",
         "signature": "c0bc027f84d0b33143b08e867e72f5b788e0fe02ba7745809e52e35fe4ecf2b6",
         "affectsGlobalScope": false
       },

@@ -44,7 +44,6 @@ const express = require("express");
 const path = require("path");
 const fs = require("fs");
 function ExpressStaticFallback(folder) {
-    console.log(folder);
     const handler = express.static(folder);
     let defaultHandler = (req, res) => {
         res.status(404 /* NotFound */).end("not found");
