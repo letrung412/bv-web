@@ -1,9 +1,8 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.ReadConfig = void 0;
-const path = require("path");
-const dotenv = require("dotenv");
-async function ReadConfig() {
+import * as path from 'path';
+import * as dotenv from 'dotenv';
+import * as os from "os";
+
+export async function ReadConfig() {
     dotenv.config();
     const resolvedir = (dir) => dir ? path.resolve(process.cwd(), dir) : undefined;
     const config = {
@@ -26,5 +25,3 @@ async function ReadConfig() {
     });
     return config;
 }
-exports.ReadConfig = ReadConfig;
-//# sourceMappingURL=config.js.map
