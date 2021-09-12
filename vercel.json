@@ -9,7 +9,7 @@
       "config": { "includeFiles": ["**"] }
     },
     {
-      "src": "backend/build/index.html",
+      "src": "dist/build/index.html",
       "use": "@vercel/static",
       "config": { "includeFiles": ["**"] }
     }
@@ -21,12 +21,12 @@
       "dest": "dist/index.js"
     },
     {
-      "src": "/.*",
-      "dest": "backend/build/index.html"
+      "src": "/*",
+      "dest": "dist/build/index.html"
     },
     {
       "src": "/(.+)",
-      "dest": "backend/build/$1"
+      "dest": "dist/build/$1"
     }
   ]
 }
