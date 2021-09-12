@@ -15,7 +15,7 @@ async function ReadConfig() {
             db_name: process.env.DB_NAME,
         },
         app: {
-            dir: resolvedir("../backend/dist/build"),
+            dir: resolvedir("../backend/build"),
         },
         upload: {
             path: process.env.UPLOAD_PATH
