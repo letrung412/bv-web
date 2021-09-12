@@ -97,4 +97,3 @@ exports.MongoCommon = {
         return ctx[sessionSymbol];
     }
 };
-//# sourceMappingURL=mongodb.js.map

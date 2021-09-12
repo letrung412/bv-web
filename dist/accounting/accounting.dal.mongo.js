@@ -55,4 +55,3 @@ class AccountingDALMongo {
     }
 }
 exports.AccountingDALMongo = AccountingDALMongo;
-//# sourceMappingURL=accounting.dal.mongo.js.map

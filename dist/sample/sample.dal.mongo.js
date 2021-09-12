@@ -46,4 +46,3 @@ class SampleDALMongo {
     }
 }
 exports.SampleDALMongo = SampleDALMongo;
-//# sourceMappingURL=sample.dal.mongo.js.map

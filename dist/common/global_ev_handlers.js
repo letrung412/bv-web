@@ -20,4 +20,3 @@ function RegisterGlobalEventHandlers(evBLL, orderBLL, jobBLL) {
     });
 }
 exports.RegisterGlobalEventHandlers = RegisterGlobalEventHandlers;
-//# sourceMappingURL=global_ev_handlers.js.map

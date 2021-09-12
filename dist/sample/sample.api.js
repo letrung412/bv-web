@@ -42,4 +42,3 @@ function NewSampleAI(sampleBLL) {
     return app;
 }
 exports.NewSampleAI = NewSampleAI;
-//# sourceMappingURL=sample.api.js.map

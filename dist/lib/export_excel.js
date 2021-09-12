@@ -230,4 +230,3 @@ function moneyToWord(money) {
 }
 exports.moneyToWord = moneyToWord;
 ;
-//# sourceMappingURL=export_excel.js.map

@@ -42,4 +42,3 @@ class UploadBLLBase {
     }
 }
 exports.UploadBLLBase = UploadBLLBase;
-//# sourceMappingURL=upload.bll.base.js.map

@@ -21,4 +21,3 @@ var AccountingNS;
         ErrOrderPriceAndTransactionAmount: new Error("Order price different transaction amount ")
     };
 })(AccountingNS = exports.AccountingNS || (exports.AccountingNS = {}));
-//# sourceMappingURL=accounting.js.map

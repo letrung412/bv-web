@@ -126,4 +126,3 @@ function NewAccountingAPI(userAuthBLL, accountingBLL, jobBLL, orgBLL) {
     return app;
 }
 exports.NewAccountingAPI = NewAccountingAPI;
-//# sourceMappingURL=accounting.api.js.map

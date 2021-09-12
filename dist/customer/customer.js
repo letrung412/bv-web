@@ -27,4 +27,3 @@ var CustomerNS;
         NewCustomerCode: () => date_fns_1.format(new Date(), "yyMMddhhmmss"),
     };
 })(CustomerNS = exports.CustomerNS || (exports.CustomerNS = {}));
-//# sourceMappingURL=customer.js.map

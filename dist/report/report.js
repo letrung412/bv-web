@@ -9,4 +9,3 @@ var ReportNS;
         Interval["Month"] = "month";
     })(Interval = ReportNS.Interval || (ReportNS.Interval = {}));
 })(ReportNS = exports.ReportNS || (exports.ReportNS = {}));
-//# sourceMappingURL=report.js.map

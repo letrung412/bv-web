@@ -21,4 +21,3 @@ class ContextBLLBase {
     }
 }
 exports.ContextBLLBase = ContextBLLBase;
-//# sourceMappingURL=ctx.bll.js.map

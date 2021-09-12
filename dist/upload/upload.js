@@ -17,4 +17,3 @@ var UploadNS;
         ErrDataType: new Error("Data type only jpg/jpeg/png")
     };
 })(UploadNS = exports.UploadNS || (exports.UploadNS = {}));
-//# sourceMappingURL=upload.js.map

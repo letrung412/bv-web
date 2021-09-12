@@ -6,12 +6,13 @@
     "incremental": true,
     "experimentalDecorators": true,
     "moduleResolution": "node",
-    "sourceMap": true,
+    "sourceMap": false,
   },
   "include": [
     "./src/*.ts",
-    "./src/**/*.ts"
-, "test.ts"  ],
+    "./src/**/*.ts",
+     "test.ts"  
+  ],
   "exclude": [
     "node_modules/",
     "dist/"

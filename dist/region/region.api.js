@@ -55,4 +55,3 @@ function NewAPIRegion(regionBLL) {
     return app;
 }
 exports.NewAPIRegion = NewAPIRegion;
-//# sourceMappingURL=region.api.js.map

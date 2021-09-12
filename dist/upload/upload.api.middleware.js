@@ -30,4 +30,3 @@ exports.upload = multer({
     storage: storage,
     fileFilter: fileFilter
 });
-//# sourceMappingURL=upload.api.middleware.js.map

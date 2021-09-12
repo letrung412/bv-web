@@ -47,4 +47,3 @@ function HttpErrorHandler(err, req, res, next) {
     });
 }
 exports.HttpErrorHandler = HttpErrorHandler;
-//# sourceMappingURL=http_errror_handler.js.map

@@ -66,4 +66,3 @@ class ReportDALMongo {
     }
 }
 exports.ReportDALMongo = ReportDALMongo;
-//# sourceMappingURL=report.dal.mongo.js.map

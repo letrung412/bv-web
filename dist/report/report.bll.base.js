@@ -22,4 +22,3 @@ class ReportBLLBase {
     }
 }
 exports.ReportBLLBase = ReportBLLBase;
-//# sourceMappingURL=report.bll.base.js.map

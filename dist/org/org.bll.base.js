@@ -116,4 +116,3 @@ class OrgBLLBase {
     }
 }
 exports.OrgBLLBase = OrgBLLBase;
-//# sourceMappingURL=org.bll.base.js.map

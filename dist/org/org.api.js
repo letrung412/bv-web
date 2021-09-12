@@ -81,4 +81,3 @@ function NewOrgAPI(userAuthBLL, orgBLL) {
     return app;
 }
 exports.NewOrgAPI = NewOrgAPI;
-//# sourceMappingURL=org.api.js.map

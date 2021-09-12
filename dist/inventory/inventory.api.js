@@ -218,4 +218,3 @@ function NewInventoryAPI(userAuthBLL, inventoryBLL) {
     return app;
 }
 exports.NewInventoryAPI = NewInventoryAPI;
-//# sourceMappingURL=inventory.api.js.map

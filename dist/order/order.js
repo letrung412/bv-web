@@ -31,4 +31,3 @@ var OrderNS;
         NewRetailOrderCode: () => `${date_fns_1.format(new Date(), "yyMMddhhmmssSSS")}${Math.floor(Math.random() * 10)}`
     };
 })(OrderNS = exports.OrderNS || (exports.OrderNS = {}));
-//# sourceMappingURL=order.js.map

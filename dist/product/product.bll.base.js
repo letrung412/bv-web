@@ -132,4 +132,3 @@ class ProductBLLBase {
     }
 }
 exports.ProductBLLBase = ProductBLLBase;
-//# sourceMappingURL=product.bll.base.js.map

@@ -65,4 +65,3 @@ function ExpressStaticFallback(folder) {
     };
 }
 exports.ExpressStaticFallback = ExpressStaticFallback;
-//# sourceMappingURL=express.js.map

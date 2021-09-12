@@ -30,4 +30,3 @@ function NewOrderRetailAPI(retailBLL) {
     return app;
 }
 exports.NewOrderRetailAPI = NewOrderRetailAPI;
-//# sourceMappingURL=retail.api.js.map

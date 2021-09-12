@@ -193,4 +193,3 @@ if (isSetup) {
 else {
     main().catch(console.log);
 }
-//# sourceMappingURL=index.js.map

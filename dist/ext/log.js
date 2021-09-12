@@ -3,4 +3,3 @@ console.log = function (...args) {
     args.unshift(new Date());
     log.apply(console, args);
 };
-//# sourceMappingURL=log.js.map

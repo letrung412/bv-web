@@ -30,4 +30,3 @@ function NewAuthMiddleware(userAuthBLL) {
     };
 }
 exports.NewAuthMiddleware = NewAuthMiddleware;
-//# sourceMappingURL=auth.api.middleware.js.map
