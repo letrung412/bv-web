@@ -44,7 +44,6 @@ import * as fs from 'fs';
 import { Request, Response } from 'express';
 import { HttpStatusCodes } from './http';
 export function ExpressStaticFallback(folder: string) {
-    console.log(folder)
     const handler = express.static(folder);
     let defaultHandler = (req: Request, res: Response) => {
         res.status(HttpStatusCodes.NotFound).end("not found");
