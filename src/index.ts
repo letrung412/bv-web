@@ -190,7 +190,7 @@ async function main() {
   app.use("/api/sample" , NewSampleAI(sampleBLL));
   app.use("/api/data", NewAPIUpload(uploadBLL));
   /****************************************************** */
-  app.use("/", ExpressStaticFallback(config.app.dir));
+  app.use("*", ExpressStaticFallback(config.app.dir));
   app.use(HttpErrorHandler);
   
   console.log(`listen on ${config.server.port}`);
