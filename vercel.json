@@ -21,7 +21,7 @@
       "dest": "dist/index.js"
     },
     {
-      "src": "/",
+      "src": "/.*",
       "dest": "build/index.html"
     },
     {
